@@ -1,5 +1,5 @@
 # Dogs vs. Cats Classification
-Using Machine Learning and DeepLearning to detect the class of target (Dog or Cat) using significant features given by the most linked features that are taken into consideration when evaluating the target.
+Using Machine Learning and Deep Learning to detect the class of target (Dog or Cat) using significant features given by the most linked features that are taken into consideration when evaluating the target.
 
 ## Table of Contents
 * [Introduction](#introduction)
@@ -13,8 +13,8 @@ Using Machine Learning and DeepLearning to detect the class of target (Dog or Ca
 
 ## Introduction
 Because of the rapid of scientific and technical development in all fields, the progress in the fields of Artificial Intelligence has become a necessity to keep pace with it, also support the process of development in all these fields, especially scientific ones, and one of these important fields is Computer Vision, with the aim of refining and showing my theoretical and practical skills acquired from my past studies in the field of Computer Vision, refining it gradually within practical projects to show as much detail as possible related to Computer Vision and thus give benefit to those who are new to this field when reviewing the code,
-Based on this introduction, I present to you my project in solving the problem of Cats vs Dogs, and my suggestions for solving it with the best possible ways and the current capabilities using Machine Learning, and CNN.\
-Hoping to improve it gradually in the coming times.
+Based on this introduction, I present to you my project in solving the problem of Cats vs Dogs, and my suggestions for solving it with the best possible ways and the current capabilities using Machine Learning, and Deep Learning.\
+This is the beginning of a group of Computer Vision projects, the level of projects will be progressed gradually in the upcoming projects based on my experience.
 
 ## Dataset General info
 **General info about the dataset:**
