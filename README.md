@@ -55,7 +55,7 @@ conda install -c anaconda pillow\
 '''
 
 ## Features
-* I present to you my project solving the problem of Dogs vs. Cats Classification using CNN and some effective algorithm and techniques with a good analysis (EDA), and comparing between them using logical thinking, and put my suggestions for solving it in the best possible ways and the current capabilities using Machine Learning, and CNN.
+* I present to you my project solving the problem of Dogs vs. Cats Classification using CNN and some effective algorithm and techniques with a good analysis (EDA), and comparing between them using logical thinking, and put my suggestions for solving it in the best possible ways and the current capabilities using Machine Learning, and Deep Learning.
 
 ### To Do:
 **Briefly about the process of the project work, here are (some) insights that I took care of it:**
