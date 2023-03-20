@@ -82,5 +82,5 @@ To run and show analysis, insights, correlation, and results between any set of 
 4. Run Selection/Line in Python Terminal command (Shift+Enter).
 
 ## Sources
-This data was taken from microsoft/
+This data was taken from microsoft:
 (https://download.microsoft.com/download/3/E/1/3E1C3F21-ECDB-4869-8368-6DEBA77B919F/kagglecatsanddogs_5340.zip)
